@@ -12,7 +12,23 @@ This R-based tool is developed to perform in-depth statistical analysis on genet
 
 - Mixture Model for Income Distribution: Model income as a mixture of normal distributions using the EM algorithm, with bootstrapped confidence intervals for parameter estimation.
 
-# Required Libraries
-To use this tool, these libraries need to be installed
+# Installation
+Clone the repository:
 
-install.packages(c("tidyverse", "MASS", "knitr"))
+git clone https://github.com/MontzCode/genotype-statistical-analysis-in-R.git 
+
+Programming language used: Python
+
+main libraries: tidyverse, MASS, knitr
+
+# Contributing
+
+Feel free to submit pull requests or report issues to improve the project.
+
+# License
+
+This project is licensed under the MIT License.
+
+# Contact
+
+For queries, please connect with me on LinkedIn: https://www.linkedin.com/in/monty-nkpa-7a4a7623b/
